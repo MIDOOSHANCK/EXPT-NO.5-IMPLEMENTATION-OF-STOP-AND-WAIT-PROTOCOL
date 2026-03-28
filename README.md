@@ -66,7 +66,7 @@ $ns at 2.55 "$ns trace-annotate \"Receive Ack_5\""
 $ns at 2.75 "$ns trace-annotate \"Send Packet_6\""
 $ns at 2.99 "$ns trace-annotate \"Receive Ack_6\""
 $ns at 3.1 "$ns trace-annotate \"FTP stops\""
-$ns at 0.0 "$n0 label Sender"
+$ns at 0.0 "$n0 label Sender 
 $ns at 0.0 "$n1 label Receiver"
 $ns run
 ``` 
